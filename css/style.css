@@ -15,3 +15,12 @@ section h2{
 #col1,#btn1{
     text-align: center;
 }
+#col2,#btn2{
+    text-align: center;
+}
+#col3,#btn3{
+    text-align: center;
+}
+#col2,#col3{
+    border-left: 1px solid black;
+}
