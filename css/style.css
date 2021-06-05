@@ -29,6 +29,9 @@ section h2{
     color: green;
     padding-top: 30px;
 }
-.container p{
+#container2 p{
     text-align: center;
+}
+#p1{
+text-align: center;
 }
