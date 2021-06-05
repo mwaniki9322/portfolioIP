@@ -5,3 +5,9 @@ img{
 section h2{
     text-align: center;
 }
+
+#row1 h2{
+ text-align: center;
+ padding-top: 20px;
+ color: green;
+}
