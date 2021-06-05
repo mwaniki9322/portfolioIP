@@ -4,10 +4,14 @@ img{
 }
 section h2{
     text-align: center;
+    color: green;
 }
 
 #row1 h2{
  text-align: center;
  padding-top: 20px;
  color: green;
+}
+#col1,#btn1{
+    text-align: center;
 }
