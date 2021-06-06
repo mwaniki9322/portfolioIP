@@ -38,3 +38,9 @@ section h2{
 #p1{
 text-align: center;
 }
+#span1 h2{
+    text-align: center;
+    font-size:large;
+    color: green;
+    padding-top: 20px;
+}
