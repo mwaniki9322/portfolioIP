@@ -2,7 +2,7 @@
 #### A website displaying details about me. 06/06/21
 #### By ** Dennis Mwaniki**
 ## Description
-{This is a website that displays details about me,name,work hobbies/interests and projects that i have done in the past. }
+This is a website that displays details about me,name,work hobbies/interests and projects that i have done in the past.
 ## Setup/Installation Requirements
 *clone Repo using (git clone) command
 * Navigate to the project.
