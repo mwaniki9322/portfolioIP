@@ -1,4 +1,4 @@
-# {PORTFOLIO}
+# PORTFOLIO
 #### A website displaying details about me. 06/06/21
 #### By ** Dennis Mwaniki**
 ## Description
@@ -16,5 +16,5 @@ HTML,CSS and Bootstrap were the technologies used.
 ## Support and contact details
 Incase of an issue please pull request.
 ### License
-*{MIT LICENSE}*
-Copyright (c) {2021} **{Dennis Mwaniki}**
+*MIT LICENSE*
+Copyright (c) 2021 **Dennis Mwaniki**
