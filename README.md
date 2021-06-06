@@ -10,7 +10,7 @@ This is a website that displays details about me,name,work hobbies/interests and
 * Enjoy!
 
 ## Known Bugs
-No bugs on this project.Inacse of any bug feel free to contact me.
+No bugs on this project.Incase of any bug feel free to contact me.
 ## Technologies Used
 HTML,CSS and Bootstrap were the technologies used.
 ## Support and contact details
