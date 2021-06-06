@@ -15,8 +15,8 @@ No bugs on this project.Incase of any bug feel free to contact me.
 HTML,CSS and Bootstrap were the technologies used.
 ## Support and contact details
 Incase of an issue please pull request.
-#LINK TO SITE:
+### Link to site:
 https://mwaniki9322.github.io/portfolioIP/
-###LICENSE
+### LICENSE
 *{MIT LICENSE}*
 Copyright (c) {2021} **{Dennis Mwaniki}**
