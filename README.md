@@ -1,6 +1,6 @@
 # PORTFOLIO
 #### A website displaying details about me. 06/06/21
-#### By ** Dennis Mwaniki**
+#### By  Dennis Mwaniki
 ## Description
 This is a website that displays details about me,name,work hobbies/interests and projects that i have done in the past. 
 ## Setup/Installation Requirements
@@ -18,5 +18,5 @@ Incase of an issue please pull request.
 ### Link to site:
 https://mwaniki9322.github.io/portfolioIP/
 ### LICENSE
-*{MIT LICENSE}*
-Copyright (c) {2021} **{Dennis Mwaniki}**
+*MIT LICENSE*
+Copyright (c) {2021} **Dennis Mwaniki**
